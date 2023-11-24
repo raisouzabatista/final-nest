@@ -1,0 +1,10 @@
+Venho através deste bloco de notas, notificar que não consegui integrar a interface grafica, 
+por motivos de: não foi me ensinado, o que foi passado em sala, vulgo back-end (prisma e nestjs) foi feito, 
+porém o que não foi ensinado, eu não consegui fazer, gostaria de ter começado semana passada dia 14, 
+porém o senhor pegou nosso horario e deu a aula para o modulo 3 apresentar o trabalho de BD,
+tentei novamente sexta mas o senhor estava ocupado com a robotica,
+tentei novamente segunda e o senhor estava viajando, sinto muito,
+mas mesmo mandando mensagem no whastapp você nao ajudou de nada. 
+O que eu pude fazer eu fiz, você queria que eu modificasse um arquivo com arduino Esp32, e transformasse sem ele,
+mas como eu poderia fazer isso, se não chegamos nem perto de mexer com front-end. 
+As consultas pedidas foram feitas e estão todas em teste service/module. 
